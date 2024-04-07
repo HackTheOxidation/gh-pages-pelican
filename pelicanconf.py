@@ -1,5 +1,5 @@
 AUTHOR = 'HackTheOxidation'
-SITENAME = "Welcome to HackTheOxidation's GitHub Pages"
+SITENAME = "HackTheOxidation's GitHub Pages"
 SITEURL = ""
 
 PATH = "content"
